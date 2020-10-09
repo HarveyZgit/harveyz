@@ -1,6 +1,6 @@
 {
   "name": "format-hex-color",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "格式化16进制颜色",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,6 @@
   },
   "bugs": {
     "url": "https://github.com/HarveyZgit/harveyz/issues"
-  }
+  },
+  "gitHead": "38aae6b723eece74e317a9b11da77e0a3aaa4e82"
 }

@@ -1,9 +1,12 @@
 {
-  "name": "root",
+  "name": "harveyz",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
