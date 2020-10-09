@@ -1,12 +1,30 @@
 {
   "name": "format-hex-color",
   "version": "1.0.0",
-  "description": "",
+  "description": "格式化16进制颜色",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "zhanghang04 <zhanghang04@baijiahulian.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/HarveyZgit/harveyz#readme",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarveyZgit/harveyz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarveyZgit/harveyz/issues"
+  }
 }
